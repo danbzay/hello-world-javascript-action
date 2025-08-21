@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: danbzay/hello-world-javascript-action@8d5b08b062ce328a9364d65c95d35a5d255fbe54
+        uses: danbzay/hello-world-javascript-action@7524c94a8dda562c573fee38cb9983577255e538
         with:
           who-to-greet: Mona the Octocat
 
